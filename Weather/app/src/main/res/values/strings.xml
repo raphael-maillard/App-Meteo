@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Meteo</string>
+
+    <!--Create City Dialog-->
+    <string name="createcity.title">New City name?</string>
+    <string name="createcity_positive">Create City</string>
+    <string name="createcity_negative">Cancel</string>
+    <string name="createcity_cityhint">New York, London ...</string>
+    
+    <!--Menu Ville-->
+    <string name="menu_create_city">Create City</string>
+
+    <!--Delete City Dialog-->
+    <string name="deletecity_title">Do you want really to delete %1$s</string>
+    <string name="deletecity_positive">Delete City</string>
+    <string name="deletecity_negative">Cancel</string>
+
+    <!--City Dialog-->
+    <string name="city_message_error_could_not_create_city">Could not create city</string>
+    <string name="city_message_info_city_deleted">%1$s has been deleted</string>
+    <string name="city_message_error_could_not_delete_city">Could not delete %1$s</string>
+    
+    
+    <string name="weather_message_error_could_not_load_weather">Could not load city weather</string>
+    <string name="weather_temperature_value">%1$d °C</string>
+    <string name="weather_humidity_value">%1$d %%</string>
+    <string name="weather_pressure_value">%1$d hPa</string>
+</resources>
