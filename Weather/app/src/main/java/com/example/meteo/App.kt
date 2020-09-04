@@ -1,7 +1,6 @@
 package com.example.meteo
 
 import android.app.Application
-import android.graphics.Path
 import com.example.meteo.openweathermap.OpenWeatherService
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
